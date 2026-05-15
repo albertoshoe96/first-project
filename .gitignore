@@ -4,6 +4,7 @@ __pycache__/
 *.db
 *.sqlite
 *.sqlite3
+*.pdf
 .venv/
 venv/
 .env
